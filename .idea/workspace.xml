@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f13d1ff-815d-4b24-98ee-c58814ae0d79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1x6ocujnEkRQqV7JsjiHvhGwzPQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/modules/splash" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/training" />
+      <recent name="$PROJECT_DIR$/lib/domain" />
+      <recent name="$PROJECT_DIR$/lib/repository" />
+      <recent name="$PROJECT_DIR$/lib/modules/splash" />
+      <recent name="$PROJECT_DIR$/lib/modules/home" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f13d1ff-815d-4b24-98ee-c58814ae0d79" name="Default Changelist" comment="" />
+      <created>1629684981414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629684981414</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="213" y="194" width="1835" height="832" key="AVDManager" timestamp="1639120405694">
+      <screen x="0" y="25" width="2048" height="1046" />
+    </state>
+    <state x="213" y="194" width="1835" height="832" key="AVDManager/2048.58.1920.1055/0.25.2048.1046@0.25.2048.1046" timestamp="1639120405694" />
+    <state x="2148" y="165" width="1720" height="839" key="AVDManager/2048.58.1920.1055/0.25.2048.1046@2048.58.1920.1055" timestamp="1638518235777" />
+    <state x="2148" y="165" width="1720" height="839" key="AVDManager/2048.58.1920.1055/0.25.2048.1047@2048.58.1920.1055" timestamp="1638347022301" />
+    <state width="1001" height="222" key="GridCell.Tab.0.bottom" timestamp="1638318684758">
+      <screen x="0" y="25" width="2048" height="1046" />
+    </state>
+    <state width="1001" height="222" key="GridCell.Tab.0.bottom/2048.58.1920.1055/0.25.2048.1046@0.25.2048.1046" timestamp="1638318684758" />
+    <state width="1001" height="222" key="GridCell.Tab.0.center" timestamp="1638318684757">
+      <screen x="0" y="25" width="2048" height="1046" />
+    </state>
+    <state width="1001" height="222" key="GridCell.Tab.0.center/2048.58.1920.1055/0.25.2048.1046@0.25.2048.1046" timestamp="1638318684757" />
+    <state width="1001" height="222" key="GridCell.Tab.0.left" timestamp="1638318684757">
+      <screen x="0" y="25" width="2048" height="1046" />
+    </state>
+    <state width="1001" height="222" key="GridCell.Tab.0.left/2048.58.1920.1055/0.25.2048.1046@0.25.2048.1046" timestamp="1638318684757" />
+    <state width="1001" height="222" key="GridCell.Tab.0.right" timestamp="1638318684758">
+      <screen x="0" y="25" width="2048" height="1046" />
+    </state>
+    <state width="1001" height="222" key="GridCell.Tab.0.right/2048.58.1920.1055/0.25.2048.1046@0.25.2048.1046" timestamp="1638318684758" />
+    <state x="525" y="186" key="SettingsEditor" timestamp="1645141413735">
+      <screen x="0" y="25" width="2048" height="1050" />
+    </state>
+    <state x="525" y="186" key="SettingsEditor/0.25.2048.1050@0.25.2048.1050" timestamp="1645141413735" />
+  </component>
+</project>
